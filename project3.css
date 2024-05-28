@@ -1,0 +1,235 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+    /* right: 0; */
+}
+
+
+.box {
+    height: 95vh;
+    width: 100vw;
+    opacity: 0.55;
+    background-color: black;
+    position: absolute;
+    z-index: 0;
+}
+
+/* NAVIGATION BAR AND LOGO */
+.container {
+    display: flex;
+    position: relative;
+    width: 100vw;
+
+}
+
+body {
+    color: white;
+    font-weight: bold;
+    font-family: 'Ubuntu';
+    font-size: 22px;
+}
+
+.main {
+    background: url(img/p31.jpg);
+    height: 95vh;
+    width: 100vw;
+
+}
+
+#btn {
+    margin-left: 1000px;
+    padding: 0px 15px;
+    border-radius: 8px;
+    height: 35px;
+    background-color: red;
+    color: white;
+    margin-top: 23px;
+    font-weight: bold;
+
+}
+
+.logo1 {
+    margin-left: 150px;
+    color: red;
+    margin-top: 23px;
+}
+
+
+/* MIDDLE PORTION */
+.face {
+    text-align: center;
+    margin-top: 180px;
+    position: relative;
+}
+
+/* HEADING */
+#one {
+    font-size: 50px;
+    z-index: 10;
+    margin: 0px 230px;
+    font-weight: bold;
+}
+
+/* FOR TWO PARAGRAPH */
+.one2 {
+    margin: 23px 0px;
+    font-size: 20px;
+
+}
+
+/* EMAIL INPUT */
+#name {
+    margin-left: 480px;
+    height: 60px;
+    width: 320px;
+    opacity: 0.6;
+    background-color: black;
+    border: 0.5px solid white;
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 0px 18px;
+    position: relative;
+}
+
+/* SUBMIT BUTTON */
+#bton {
+    height: 60px;
+    /* margin-top: 15px; */
+    width: 240px;
+    background-color: red;
+    /* border: 2px solid black; */
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    border-radius: 6px;
+    font-family: 'Ubuntu';
+    font-size: 22px;
+    color: white;
+}
+
+/* border line */
+.hr {
+    width: 100vw;
+    background-color: rgb(44, 44, 44);
+    height: 5px;
+}
+
+.tv {
+    display: flex;
+    height: 80vh;
+    /* position: absolute; */
+    /* flex-direction: column; */
+    width: 100vw;
+    background-color: black;
+}
+
+.tvo {
+    margin-top: 150px;
+    margin-left: 220px;
+}
+
+#img1 {
+    /* margin: 55px; */
+    margin-right: 220px;
+    margin-top: 35px;
+}
+
+.tve {
+    background-color: black;
+    display: flex;
+    width: 100vw;
+    height: 75vh;
+}
+
+#para1 {
+    margin-top: 180px;
+    margin-right: 80px;
+}
+
+#img2 {
+    margin-left: 255px;
+    margin-top: 60px;
+}
+
+.head {
+    font-weight: bold;
+    font-size: 55px;
+
+}
+
+.para {
+    margin-top: 23px;
+    margin-right: 50px;
+}
+
+#vid {
+    margin-bottom: 200px;
+}
+
+.head1 {
+    margin-left: 500px;
+    margin-top: 70px;
+}
+
+.tve1 {
+    position: relative;
+    background-color: black;
+    width: 100vw;
+    display: grid;
+    height: 100vh;
+}
+
+#item1 {
+    background-color: rgba(64, 64, 64, 0.575);
+    width: 850px;
+    margin: 10px 350px;
+    padding-left: 20px;
+    padding-top: 23px;
+    height: 50px;
+}
+
+#item2 {
+    background-color: rgba(64, 64, 64, 0.575);
+    width: 850px;
+    margin: 10px 350px;
+    padding-left: 20px;
+    padding-top: 23px;
+    height: 50px;
+}
+
+#item3 {
+    background-color: rgba(64, 64, 64, 0.575);
+    width: 850px;
+    margin: 10px 350px;
+    padding-left: 20px;
+    padding-top: 23px;
+    height: 50px;
+}
+
+#item4 {
+    background-color: rgba(64, 64, 64, 0.575);
+    width: 850px;
+    margin: 10px 350px;
+    padding-left: 20px;
+    padding-top: 23px;
+    height: 50px;
+}
+
+#item5 {
+    background-color: rgba(64, 64, 64, 0.575);
+    width: 850px;
+    margin: 10px 350px;
+    padding-left: 20px;
+    padding-top: 23px;
+    height: 50px;
+}
+
+#item6 {
+    background-color: rgba(64, 64, 64, 0.575);
+    width: 850px;
+    margin: 10px 350px;
+    padding-left: 20px;
+    padding-top: 23px;
+    height: 50px;
+}
